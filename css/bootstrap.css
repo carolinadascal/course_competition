@@ -6755,3 +6755,16 @@ button.close {
   }
 }
 /*# sourceMappingURL=bootstrap.css.map */
+
+.twitter {
+  background-color: #00b8e6;
+}
+.facebook{
+  background-color: #002db3;
+}
+.pinterest{
+  background-color: #ff0000;
+}
+.instagram{
+  background-color: #cc0066;
+}
